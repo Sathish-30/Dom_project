@@ -1,9 +1,7 @@
 const roll = () => {
   const randomNum1 = Math.floor(Math.random() * 6) + 1;
-  console.log(`The first random Number : ${randomNum1}`);
 
   const randomNum2 = Math.floor(Math.random() * 6) + 1;
-  console.log(`The Second random Number : ${randomNum2}`);
 
   if (randomNum1 > randomNum2) {
     document.querySelector(".header").textContent = "Player 1 Wins😉";

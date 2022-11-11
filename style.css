@@ -7,7 +7,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #eff5f5;
+  background-color: #cdfcf6;
 }
 
 .container-1 {
@@ -37,7 +37,7 @@ body {
   width: 154px;
 }
 h4 {
-  color: #8d9eff;
+  color: #354259;
   font-size: 20px;
   text-align: center;
   padding: 30px;
@@ -63,7 +63,7 @@ h4 {
   height: 40px;
   border-radius: 10%;
   border: 0.4px solid #fff;
-  color: #8d9eff;
+  color: #354259;
   cursor: pointer;
   transition: background 0.4s;
 }
